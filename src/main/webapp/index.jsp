@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello World! This is Faisal the great of-course
+Hello World!
 </body>
 </html>
